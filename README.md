@@ -30,7 +30,7 @@ Um marketplace moderno e responsivo de moda masculina desenvolvido em React/Next
 
 1. Clone o repositório
 \`\`\`bash
-git clone https://github.com/seu-usuario/raccoon-marketplace.git
+git clone https://github.com/mansque404/raccoon-marketplace.git
 cd raccoon-marketplace
 \`\`\`
 
